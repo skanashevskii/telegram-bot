@@ -1,0 +1,5 @@
+/src/main/resources/application.properties
+/mvnw
+/mvnw.cmd
+/.idea/
+/target/
